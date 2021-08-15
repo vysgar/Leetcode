@@ -1,3 +1,3 @@
 # Leetcode
 Solution for leetcode questions
-Tis is ram
+Some solutions work for only in leetcode editor
